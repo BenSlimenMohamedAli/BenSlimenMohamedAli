@@ -60,7 +60,3 @@ As the founder of **Teklick Creation**, I provide software engineering services 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-teklick/)  
 - 🐦 [Twitter](https://twitter.com/mohameddev)  
 
----
-
-### Fun Fact  
-I draw inspiration from timeless books like *"Les 48 lois du pouvoir"* and *"L'Art de la guerre"*.  
